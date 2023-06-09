@@ -1,0 +1,17 @@
+[SETTINGS]
+delay=500
+[/SETTINGS]
+/*
+	USAGE: Add inputs, one for each line, then save this file. Run "TestInputs.exe" and press Ctrl+9 to activate.
+ 	Lines starting with "#"  and inside "/* ... */" are ignored.
+
+	Settings:
+		delay=number	Delay between inputs for each line in microseconds
+*/
+########################
+#    EXAMPLE INPUT:    #
+########################
+1
+mail@mail.com
+mypassword123
+2
